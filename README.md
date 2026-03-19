@@ -24,5 +24,4 @@ This project simulates a corporate network infrastructure designed for high avai
 
 ## Technical Implementation
 - **Hardware Simulated:** Cisco 2911 Routers, 2960-24TT Switches.
-- **Routing Protocols:** [Indica si usaste OSPF, EIGRP o Estático].
 - **Network Services:** Integrated Web and DNS services for end-to-end connectivity verification.
