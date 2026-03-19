@@ -1,5 +1,5 @@
 # Network-Architecture-HQ-DC
-![Network Topology](image_ee14c4.png)
+![Network Topology](Network_Diagram.png)
 
 Scalable enterprise network design connecting Headquarters and a Data Center. Features a redundant routing core, custom VLSM subnetting strategy, and service deployment (DNS/HTTP) within a secure, segmented environment.
 
